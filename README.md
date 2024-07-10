@@ -1,6 +1,6 @@
 # By Production Efficiency Analysis Trees (EAT) and By Production Convexified Efficiency Analysis Trees (CEAT)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12703752.svg)](https://doi.org/10.5281/zenodo.12703752)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12683675.svg)](https://doi.org/10.5281/zenodo.12683675)
 
 This repository accompanies the paper by M. Guillen, J. Aparicio, M. Kapelko, M. Esteve "Measuring environmental inefficiency through machine learning: An approach based on Efficiency Analysis Trees and by-production technology ".
 The repository was created as a result of the project funded by the National Science Centre in Poland (grant no. 2023/49/B/HS4/02991).
