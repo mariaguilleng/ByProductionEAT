@@ -171,7 +171,7 @@ DDF_T2 <- function(data, p, z, FDH, EAT_T2) {
 #'
 #' @description This function calculates the Directional Distance Function (DDF)
 #' for the Technology under the Murphy et al. (2012) parading using
-#' DEA/FDH and CEAT/EAT
+#' DEA/FDH and CEAT/EAT (Esteve et. al, 2020; Aparicio et al., 2021)
 #'
 #' @name DDF_T2
 #'
@@ -186,7 +186,7 @@ DDF_T2 <- function(data, p, z, FDH, EAT_T2) {
 #'
 #' @return The efficiency score for each DMU
 #' 
-EATByProduct <- function(data, q, p, y, z, delta1, delta2, numStop) {
+EATByProduction <- function(data, q, p, y, z, delta1, delta2, numStop) {
   
   # Fit a EAT tree to T1
   EAT_T1 <- EAT(data, x = c(q,p), y = y, numStop = numStop, max.depth = Inf)
