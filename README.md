@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12683675.svg)](https://doi.org/10.5281/zenodo.12683675)
 
-This repository accompanies the paper by M. Guillen, J. Aparicio, M. Kapelko, M. Esteve "Measuring environmental inefficiency through machine learning: An approach based on Efficiency Analysis Trees and by-production technology ".
+This repository accompanies the paper by M. Guillen, J. Aparicio, M. Kapelko, M. Esteve "Measuring environmental inefficiency through machine learning: An approach based on Efficiency Analysis Trees and by-production technology".
 The repository was created as a result of the project funded by the National Science Centre in Poland (grant no. 2023/49/B/HS4/02991).
 
 This repository contains the implementation of novel machine learning methods for measuring environmental inefficiency, leveraging regression trees under shape constraints. The developed techniques are based on a by-production framework that separates technologies for pollution generation and good output production. In particular, two new approaches are included in the respository: by-production Efficiency Analysis Trees (EAT) and by-production Convexified Efficiency Analysis Trees (CEAT). These methods address common issues such as overfitting found in traditional methods like Free Disposal Hull (FDH) and Data Envelopment Analysis (DEA). Those traditional methods are also included in the respositoty.
