@@ -9,6 +9,6 @@ This repository contains the implementation of novel machine learning methods fo
 
 The repository includes the following files: 
 * `EAT_ByProdcut_model.R`: The programing codes for mathematical models for by-production EAT, by-production CEAT, by-production FDH and by-production DEA.
-* `EAT_ByProdcut_model.pdf`: The mathematical models for by-production EAT, by-production CEAT, by-production FDH and by-production DEA.
+* `Mathematical models.docx`: The mathematical models for by-production EAT, by-production CEAT, by-production FDH and by-production DEA.
 * `WIOD_JCR_dataset.xls`: A real dataset including comprehensive data from 43 countries over the period from 2000 to 2014, derived from the World Input-Output Database (WIOD) and the Joint Research Centre (JCR) of the European Commission. The dataset assumes a production process that includes two non-polluting inputs: labor (measured by the number of employees in thousands) and capital (represented by gross fixed capital formation at constant prices from the year 2000 in millions of Purchasing Power Parity (PPP)). It also includes one polluting input, which is emission-relevant energy use measured in terajoules (TJ). For outputs, the dataset considers one non-polluting output, which is the gross value added at constant prices from the year 2000 in millions of PPP, and one polluting output, which is CO2 emissions measured in kilotons (kt).
 * `example.R`: An example of the use of the models.
